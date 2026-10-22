@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\bin\Debug\net10.0\ArraydanKoleksiDasar.exe
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\bin\Debug\net10.0\ArraydanKoleksiDasar.deps.json
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\bin\Debug\net10.0\ArraydanKoleksiDasar.runtimeconfig.json
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\bin\Debug\net10.0\ArraydanKoleksiDasar.dll
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\bin\Debug\net10.0\ArraydanKoleksiDasar.pdb
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\obj\Debug\net10.0\ArraydanKoleksiDasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\obj\Debug\net10.0\ArraydanKoleksiDasar.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\obj\Debug\net10.0\ArraydanKoleksiDasar.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\obj\Debug\net10.0\ArraydanKoleksiDasar.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\obj\Debug\net10.0\ArraydanKoleksiDasar.dll
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\obj\Debug\net10.0\refint\ArraydanKoleksiDasar.dll
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\obj\Debug\net10.0\ArraydanKoleksiDasar.pdb
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\obj\Debug\net10.0\ArraydanKoleksiDasar.genruntimeconfig.cache
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\obj\Debug\net10.0\ref\ArraydanKoleksiDasar.dll
+C:\Users\ACER\source\repos\ArraydanKoleksiDasar\ArraydanKoleksiDasar\obj\Debug\net10.0\Arraydan.1163FFAF.Up2Date
